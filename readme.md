@@ -17,7 +17,7 @@ Clone project
 ```
 git clone https://github.com/pubudusitinamaluwa/name-sorter
 ```
-Run
+Switch to project directory and run
 ```
 ./gradlew assemble
 ```
