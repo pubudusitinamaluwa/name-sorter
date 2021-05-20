@@ -1,3 +1,6 @@
 language: java
 jdk:
   - oraclejdk11
+
+script:
+  - ./gradlew assemble
